@@ -5,12 +5,12 @@
 ## Vrai ou faux
 
 Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-elles vraies ou fausses ? 
-- Etudiant est une classe d’association
-- Un étudiant peut participer à autant de cours qu’il veut
-- Plusieurs professeurs peuvent enseigner la même discipline
-- Un professeur peut enseigner plusieurs disciplines
-- Un cours peut être enseigner à 2 étudiants
-- Un cours peut être enseigner à 20 étudiants 
+- Etudiant est une classe d’association - V
+- Un étudiant peut participer à autant de cours qu’il veut - V
+- Plusieurs professeurs peuvent enseigner la même discipline - F
+- Un professeur peut enseigner plusieurs - V
+- Un cours peut être enseigner à 2 étudiants - F
+- Un cours peut être enseigner à 20 étudiants - V
 
 ## Question ouverte
 

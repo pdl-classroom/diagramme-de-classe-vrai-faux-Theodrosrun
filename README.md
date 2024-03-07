@@ -17,3 +17,5 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 Représentez la même association avec la notation UML « petit losange » 
 
 - Quelles informations perd-on par rapport au diagramme ci-dessus ? 
+
+Les cardinalités sont perdues

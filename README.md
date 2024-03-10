@@ -18,4 +18,4 @@ Représentez la même association avec la notation UML « petit losange »
 
 - Quelles informations perd-on par rapport au diagramme ci-dessus ? 
 
-Les cardinalités sont perdues
+En passant du premier au deuxième diagramme, on perd les nuances de la relation ternaire entre Professeur, Discipline et Cours.

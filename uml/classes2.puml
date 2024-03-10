@@ -1,15 +1,15 @@
 @startuml
 
-class Professeur {
-}
+class Professeur
 
-class Discipline {
-}
+class Etudiant
 
-class Cours {
-}
+class Cours
 
-class Etudiant {
-}
+class Discipline
+
+Cours "1" o-- Professeur 
+Cours "1" o-- Discipline 
+Cours "5..30" o-- Etudiant 
 
 @enduml
